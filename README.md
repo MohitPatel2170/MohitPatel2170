@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohit Patel Hi 👋, I'm a Full-stack developer. Works with most modern frameworks/stacks. Fav languages: JavaScript & Node.js, Flutter, HTML, CSS, Python, and Java
+- 👋 Hi, I’m Mohit Patel Hi 👋, I'm a Full-stack developer. Works with most modern frameworks/stacks. Fav languages: JavaScript, React Node.js, Express.js HTML5, CSS, and Java
 - 👀 I’m interested in  Software Development and Engineering
 - 🌱 I’m currently learning Advance concepts of Full Stack Web Development
 - 💞️ I’m looking for an opportunity where I can have the real world tech expierence
