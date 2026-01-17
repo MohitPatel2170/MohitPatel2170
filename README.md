@@ -1,8 +1,8 @@
 # Hello 👋 I am Mohit Patel
 
-## Full Stack Developer
+## Full Stack Developer | Frontend Developer
 
-Full-stack software developer passionate about building scalable, efficient web applications. Eager to grow professionally and specialize in React and modern front-end technologies.
+Full-stack software developer passionate about building scalable, efficient web applications. Eager to grow professionally and specialize in React and modern front-end technologies.Let's connect and explore the world of innovation together!
 
 - 🌍 I'm from India
 - 📫 Reach me at [mohit.patel2170@gmail.com](mailto:mohit.patel2170@gmail.com)
@@ -118,9 +118,3 @@ src="https://img.shields.io/badge/follow-%40mohitself2170-0891b2?logo=x&style=fo
 <img width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee" />
 </picture>
 </a>
-
-<!-- Thank you for using ProfileX - https://profilex.dev [by Vandit Shah] -->
-<!---
-MohitPatel2170/MohitPatel2170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
